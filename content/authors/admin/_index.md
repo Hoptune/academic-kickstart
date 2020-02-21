@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Zhiwei Shao 邵志伟
+name: Zhiwei Shao
 
 # Username (this should match the folder name)
 authors:

@@ -9,6 +9,8 @@ image:
   focal_point: "Center"
   preview_only: false
 summary: "We built an analytic model to fit the multi-wavelength data of AT 2017gfo."
+categories: ["Research"]
+tags: ["kilonova", "neutron star", "gravitational wave"]
 ---
 
 ### Collaborators: Chengjiang Yin, Binbin Zhang and Zigao Dai

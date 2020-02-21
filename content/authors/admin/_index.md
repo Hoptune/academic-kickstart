@@ -18,7 +18,7 @@ organizations:
   url: "https://www.nju.edu.cn/EN/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cosmology and galaxy evolution.
+bio: Freshman in cosmology and galaxy evolution.
 
 interests:
 - Cosmological Simulations
@@ -45,10 +45,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/zhiwei_shao
+  link: 'mailto:zws@smail.nju.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/zhiwei_shao
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-4585-3985

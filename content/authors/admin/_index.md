@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Zhiwei Shao
+name: Zhiwei Shao 邵志伟
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.nju.edu.cn/EN/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include numerical cosmology and galaxy evolution.
+bio: My research interests include cosmology and galaxy evolution.
 
 interests:
 - Cosmological Simulations
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I'm Zhiwei Shao (邵志伟), currently a fourth year undergraduate student at [School of Astronomy and Space Science](https://astronomy.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/en/main.psp). My main research interests focus on cosmology and galaxy evolution, while currently I'm also working on the kilonova ejecta structure associated with AT 2017gfo. You can find my CV {{% staticref "files/cv.pdf" "newtab" %}}here{{% /staticref %}} for more details.
+Hello! I'm Zhiwei Shao (邵志伟), currently a fourth year undergraduate student at [School of Astronomy and Space Science](https://astronomy.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/en/main.psp). I am eager to learn about both theoretical and observational aspects of cosmology and galaxy evolution, while currently I'm also working on the kilonova ejecta structure associated with AT 2017gfo. You can find my CV {{% staticref "files/cv.pdf" "newtab" %}}here{{% /staticref %}} for more details.

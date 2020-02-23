@@ -12,3 +12,5 @@ header:
   caption: ""
   image: ""
 ---
+
+<!-- I will keep most of my daily blogs in Chinese to the convenience of my parents. -->

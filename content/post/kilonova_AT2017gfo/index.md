@@ -1,8 +1,7 @@
 ---
 title: Anisotropic Ejecta Distribution of Kilonova AT 2017gfo
 date: 2020-02-21
-authors:
-- admin
+authors: [admin]
 image:
   placement: 3
   caption: 'Observed light curves of AT 2017gfo together with our best fit results.'

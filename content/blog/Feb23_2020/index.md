@@ -3,9 +3,9 @@
 
 title: "建站&申请&未来"
 subtitle: "一个简单的总结及展望"
-authors: []
-tags: ["daily", "Chinese"]
-categories: ["blog"]
+authors: [admin]
+tags: ["plans", "Chinese"]
+categories: ["Diary"]
 date: 2020-02-23T12:13:39+08:00
 lastmod: 2020-02-23T12:13:39+08:00
 featured: false
@@ -26,6 +26,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+commentable: true
 ---
 这个站终于像点样子了。本来准备申请前就弄好，结果因为research方面有些问题就一直拖到现在。无论如何，我的个人小窝终于落地啦！今后，我会在这里记录一些个人的笔记、日记以及进展。
 

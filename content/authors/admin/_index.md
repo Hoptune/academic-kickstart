@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student in Astronomy
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Nanjing University
-  url: "https://www.nju.edu.cn/EN/"
+- name: Shanghai Jiao Tong University
+  url: "http://en.sjtu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Freshman in cosmology and galaxy evolution.
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Hello! I'm Zhiwei Shao (邵志伟), currently a fourth year undergraduate student at [School of Astronomy and Space Science](https://astronomy.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/en/main.psp). I am eager to learn about both theoretical and observational aspects of cosmology and galaxy evolution, while currently I'm also working on the kilonova ejecta structure associated with AT 2017gfo. You can find my CV {{% staticref "files/cv.pdf" "newtab" %}}here{{% /staticref %}} for more details.
+Hello! I'm Zhiwei Shao (邵志伟), currently a research assistant at [Department of Astronomy](http://astro.sjtu.edu.cn/en/), [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). I graduated from [School of Astronomy and Space Science](https://astronomy.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/en/main.psp). I am eager to learn about both theoretical and observational aspects of cosmology and galaxy evolution, while currently I'm also working on the kilonova ejecta structure associated with AT 2017gfo. You can take a look at my CV {{% staticref "files/cv.pdf" "newtab" %}}here{{% /staticref %}} for more details.

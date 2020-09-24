@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Codes"
-subtitle: ""
-summary: ""
-authors: []
-tags: []
-categories: []
-date: 2020-02-21T14:47:19+08:00
-lastmod: 2020-02-21T14:47:19+08:00
+title: "毕业了"
+subtitle: "一个简单的总结及展望"
+authors: [admin]
+tags: ["plans", "Chinese"]
+categories: ["Diary"]
+date: 2020-06-24T23:04:39+08:00
+lastmod: 2020-06-24T23:04:39+08:00
 featured: false
 draft: false
+summary: "一个简单的总结及展望"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -26,4 +26,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+commentable: true
 ---
+           

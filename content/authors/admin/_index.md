@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:zws@smail.nju.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:zwshao@sjtu.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/zhiwei_shao
